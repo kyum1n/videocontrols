@@ -1,0 +1,6 @@
+.idea/
+out/
+bin/
+videos/
+*.iml
+serial/
